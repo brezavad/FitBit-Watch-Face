@@ -1,0 +1,251 @@
+.background {
+  viewport-fill: black;
+}
+
+#timeLabel {
+  font-size: 45;
+  font-family: System-Regular;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 31%;
+/*   fill: #22ab9d; */
+/*   fill: #36e3c3; */
+/*   fill: #3dffdb; */
+/*   fill: #3af0ce; This one looks nice*/
+/*   fill: #3dffdb; */
+  fill: white;
+}
+
+#dateLabel {
+  font-size: 35;
+  font-family: System-Regular;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 45%;
+  fill: white;
+}
+
+#stepsIcon {
+  x: 14%-16;
+  y: 70%-16;
+  width: 32;
+  height: 32;
+  fill: #008181;
+  opacity: 1;
+}
+
+#stepsLabel {
+  font-size: 26;
+  font-family: System-Regular;
+  text-length: 32;
+  text-anchor: start;
+  x: 14%+25;
+  y: 70%+9;
+  fill: white;
+}
+
+#calsIcon {
+  x: 63%-16;
+  y: 70%-16;
+  width: 32;
+  height: 32;
+  fill: #008181;
+  opacity: 1;
+}
+
+#caloriesLabel {
+  font-size: 26;
+  font-family: System-Regular;
+  text-length: 32;
+  text-anchor: start;
+  x: 63%+25;
+  y: 70%+9;
+  fill: white;
+}
+
+#heartIcon {
+  x: 14%-16;
+  y: 55%-16;
+  width: 32;
+  height: 32;
+  fill: #008181;
+  text-anchor: center;
+  opacity: 1;
+}
+
+#heartRateLabel {
+  font-size: 26;
+  font-family: System-Regular;
+  text-length: 32;
+  text-anchor: start;
+  x: 14%+25;
+  y: 55%+9;
+  fill: white;
+}
+
+#batteryIcon {
+  x: 63%-16;
+  y: 55%-16;
+  width: 32;
+  height: 32;
+  fill: #008181;
+  text-anchor: center;
+  opacity: 1;
+}
+
+#batteryLabel {
+  font-size: 26;
+  font-family: System-Regular;
+  text-length: 32;
+  text-anchor: start;
+  x: 63%+25;
+  y: 55%+9;
+  fill: white;
+}
+
+
+/* FUCK YOUUUUUUUUU */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .background {
+  viewport-fill: black;
+}
+
+#timeLabel {
+  font-size: 90;
+  font-family: System-Regular;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 30%;
+  fill: white;
+}
+
+#dateLabel {
+  font-size: 30;
+  font-family: System-Regular;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 45%;
+  fill: white;
+}
+
+#stepsIcon {
+  x: 14%-16;
+  y: 87%-16;
+  width: 32;
+  height: 32;
+  fill: #317778;
+  opacity: 1;
+}
+
+#stepsLabel {
+  font-size: 26;
+  font-family: System-Regular;
+  text-length: 32;
+  text-anchor: start;
+  x: 14%+25;
+  y: 87%+9;
+  fill: white;
+}
+
+#calsIcon {
+  x: 63%-16;
+  y: 87%-16;
+  width: 32;
+  height: 32;
+  fill: #d9ad29;
+  opacity: 1;
+}
+
+#caloriesLabel {
+  font-size: 26;
+  font-family: System-Regular;
+  text-length: 32;
+  text-anchor: start;
+  x: 63%+25;
+  y: 87%+9;
+  fill: white;
+}
+
+#heartIcon {
+  x: 14%-16;
+  y: 70%-16;
+  width: 32;
+  height: 32;
+  fill: #9e2e2e;
+  text-anchor: center;
+  opacity: 1;
+}
+
+#heartRateLabel {
+  font-size: 26;
+  font-family: System-Regular;
+  text-length: 32;
+  text-anchor: start;
+  x: 14%+25;
+  y: 70%+9;
+  fill: white;
+}
+
+#batteryIcon {
+  x: 63%-16;
+  y: 70%-16;
+  width: 32;
+  height: 32;
+  opacity: 1;
+}
+
+#batteryLabel {
+  font-size: 26;
+  font-family: System-Regular;
+  text-length: 32;
+  text-anchor: start;
+  x: 63%+25;
+  y: 70%+9;
+  fill: white;
+}
+
+#separator {
+  width: 75%;
+  x1: 15%;
+  y1: 55%;
+  x2: 85%;
+  y2: 55%;
+  stroke-width: 3;
+  fill: white;
+} */
+

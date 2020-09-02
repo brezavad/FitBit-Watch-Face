@@ -1,0 +1,14 @@
+
+<svg class="background">
+  <text id="timeLabel" />
+  <text id="dateLabel" />
+  <text id="heartRateLabel" />
+  <text id="stepsLabel" />
+  <text id="caloriesLabel" />
+  <text id="batteryLabel" />
+  <image href="icons/stat_cals_solid_48px.png" id="calsIcon" />
+  <image href="icons/stat_steps_solid_48px.png" id="stepsIcon" />
+  <image href="icons/battery.png" id="batteryIcon" />
+  <image href="icons/stat_hr_solid_48px.png" id="heartIcon" />
+  <line id="separator" />
+</svg>
